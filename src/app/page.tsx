@@ -246,7 +246,15 @@ export default function Home() {
                             🔴 Live Cyber Threat Intelligence
                         </h1>
                         <p className="text-gray-400 text-sm">
-                            Real-time visualization powered by AbuseIPDB
+                            Real-time visualization powered by AbuseIPDB • Created by{' '}
+                            <a 
+                                href="https://meetpatel.live" 
+                                target="_blank" 
+                                rel="noopener noreferrer"
+                                className="text-blue-400 hover:text-blue-300 transition-colors underline"
+                            >
+                                Meet Patel
+                            </a>
                         </p>
                     </div>
                     
